@@ -1,0 +1,26 @@
+1) To Compile - Go to the file location:
+
+export CLASSPATH=/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/jython.jar:/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/sqlite-jdbc-3.19.3.jar:/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/;javac -d . TPMS.java
+
+
+2) To create jar:
+
+jar -cmf manifest.mf TPMS.jar start
+
+Note: Here TPMS.jar is the jar name (You can specify any name)
+If you included any external jars then include them in manifest.mf file
+
+
+3) Give Executable permission
+
+sudo chmod -R 777 .
+
+
+4) Run (two options are there)
+
+	a) You can double click on the jar
+
+	b) Through command also you can run
+
+		java -jar TPMS.jar 
+

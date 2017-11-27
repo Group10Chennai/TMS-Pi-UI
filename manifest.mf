@@ -1,0 +1,2 @@
+Main-class: start.TPMS
+Class-Path: /home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/jython.jar /home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/sqlite-jdbc-3.19.3.jar /home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/bustyres.png /home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/pressure.png /home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/temp.png
