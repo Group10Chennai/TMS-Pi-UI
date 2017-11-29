@@ -2,6 +2,10 @@
 
 export CLASSPATH=/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/jython.jar:/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/sqlite-jdbc-3.19.3.jar:/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/;javac -d . TPMS.java
 
+export CLASSPATH=/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/jython-standalone-2.7.0.jar:/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/sqlite-jdbc-3.19.3.jar:/home/group10/FinalBackup/SriHari_Backup/TMS/TMS-Pi-UI/;javac -d . TPMS.java
+
+
+
 
 2) To create jar:
 
